@@ -1,0 +1,202 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.logo1 {
+  width: 198.07px;
+  height: 59px;
+}
+nav {
+  font-weight: 250;
+}
+.nav-bg1 {
+  background-color: #f0fff0;
+}
+
+#btn1 {
+  background-color: #21b573;
+  border-radius: 33px;
+  height: 43px;
+  width: 104px;
+  text-align: center;
+  color: white;
+}
+#btn-get {
+  background-color: #21b573;
+  border-radius: 33px;
+  height: 43px;
+  width: 153px;
+  text-align: center;
+  color: white;
+}
+#header-content {
+  padding-top: 50px;
+}
+#header1 {
+  background-color: #f0fff0;
+  padding-bottom: 100px;
+}
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+h6 {
+  color: #fd511a;
+  font-size: 16px;
+}
+
+span {
+  color: #21b573;
+}
+p {
+  font-size: 16px;
+  color: lightslategray;
+  font-weight: medium;
+}
+
+#illustration {
+  height: 346px;
+  width: 554px;
+}
+.mid-banner {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.mid-banner img {
+  height: 85px;
+  width: 66px;
+}
+.grid1 {
+  box-sizing: border-box;
+  border: none;
+  border-radius: 20px;
+  padding-top: 50px;
+  background-color: #f8fffb;
+  text-align: center;
+}
+.grid2 {
+  box-sizing: border-box;
+  border: none;
+  border-radius: 20px;
+  padding-top: 50px;
+  background-color: #ffffff;
+  text-align: center;
+}
+.grid3 {
+  box-sizing: border-box;
+  border: none;
+  border-radius: 20px;
+  padding-top: 50px;
+  background-color: #f8fffb;
+  text-align: center;
+}
+.grid4 {
+  box-sizing: border-box;
+  border: none;
+  border-radius: 20px;
+  padding-top: 50px;
+  background-color: #f8fffb;
+  text-align: center;
+}
+.mid-banner h3 {
+  color: #413960;
+  font-size: 24px;
+  font-weight: normal;
+}
+#courses {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #413960;
+}
+#courses-banner {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.card-img {
+  align-items: center;
+  height: 234px;
+  width: 331px;
+  padding-top: 20px;
+  padding-left: 15px;
+  border-radius: 11px;
+}
+.card {
+  border: none;
+  border-radius: 18px;
+}
+.card-title {
+  color: #413960;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: left;
+}
+.card-text {
+  text-align: left;
+}
+#card-btn {
+  background-color: #21b573;
+  border-radius: 33px;
+  height: 35px;
+  width: 137px;
+  text-align: center;
+  color: white;
+}
+.date-seat {
+  color: black;
+}
+.date-seat img {
+  height: 24px;
+  width: 24px;
+}
+#testimonial {
+  font-size: 36px;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+}
+#testimonial-banner {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#test-image {
+  height: 120px;
+  width: 120px;
+  margin-right: 50px;
+}
+#testimonial-banner p {
+  font-size: 16px;
+  color: black;
+  margin-top: 20px;
+}
+#bottom-banner {
+  background-color: #282531;
+  color: white;
+  font-weight: 350;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+footer {
+  padding-top: 70px;
+  text-align: center;
+  margin-bottom: -20px;
+}
+#bottom-banner p {
+  color: white;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.price {
+  color: #ff136f;
+}
+.buy-button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+  font-weight: bold;
+}
